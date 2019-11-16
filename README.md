@@ -15,8 +15,8 @@ The method of Faster-RCNN was used to perform defect detection on NEU surface de
 ##### Download pretrained weights
     We used two pretrained models in our experiments, VGG and ResNet101.
     Download them and put them into the data/pretrained_model/.
-  * VGG16:[VGG16](https://filebox.ece.vt.edu/~jw2yang/faster-rcnn/pretrained-base-models/vgg16_caffe.pth)
-  * ResNet101:[ResNet101](https://filebox.ece.vt.edu/~jw2yang/faster-rcnn/pretrained-base-models/resnet101_caffe.pth)
+* VGG16:[VGG16](https://filebox.ece.vt.edu/~jw2yang/faster-rcnn/pretrained-base-models/vgg16_caffe.pth)
+* ResNet101:[ResNet101](https://filebox.ece.vt.edu/~jw2yang/faster-rcnn/pretrained-base-models/resnet101_caffe.pth)
     
 ##### Download NEU-DET dataset
     $ Download address    http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
